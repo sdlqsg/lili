@@ -1,7 +1,9 @@
 ﻿龍🐉重温经典,#genre#
+Now星影台,http://104.233.187.235/php/channelinfo.php?id=13003
+Now爆谷台,http://104.233.187.235/php/channelinfo.php?id=13002
+重温经典,http://117.162.34.102/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 封神榜86版,http://43.138.170.29:35455/yy/1353426319
 射雕英雄传83版,http://43.138.170.29:35455/yy/1354210357
