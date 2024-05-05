@@ -1,18 +1,11 @@
 🌿央卫IPV6,#genre#
 环球 电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-CCTV 新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8
-CCTV 新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
 CCTV 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV 新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-CCTV 新闻,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
-CCTV 新闻,http://hls.hsrtv.cn/live/hsyouxian.m3u8
-CCTV 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV 财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-CCTV 综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
-CCTV 国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-CCTV 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV 财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV 国际,http://livetv.skycf.eu.org/live.m3u8?c=1
+CCTV 新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8
+CCTV 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+CCTV 国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 凤凰中文,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -318,9 +311,6 @@ CCTV-17农业,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 
 📻┃综.合,#genre#
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC 电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
-HBO,http://154.yfvodcdn.com:8080/live/2mghbo02/hls.m3u8
 電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
 豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
 豆瓣高分✔原,http://diyp.112114.xyz/douyu/8770422
@@ -331,6 +321,9 @@ HBO,http://154.yfvodcdn.com:8080/live/2mghbo02/hls.m3u8
 战争电影✔原,https://live.metshop.top/yy/1382736865
 Star,http://154.yfvodcdn.com:8080/live/sf2xby6/hls.m3u8
 TSN,http://154.yfvodcdn.com:8080/live/2cahbd9/hls.m3u8
+AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC 电影,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+HBO,http://154.yfvodcdn.com:8080/live/2mghbo02/hls.m3u8
 韩国阿里郎,http://154.yfvodcdn.com:8080/live/hgArirang01/hls.m3u8
 韩国阿里郎,http://154.yfvodcdn.com:8080/live/hgArirang02/hls.m3u8
 韩国EBSKids,http://154.yfvodcdn.com:8080/live/hgEBSKids01/hls.m3u8
@@ -595,11 +588,12 @@ CCTV13新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
 无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
 NHK World,http://154.yfvodcdn.com:8080/live/2sfrb2/hls.m3u8
 NHK World,,http://61.221.215.25:8800/hls/51/index.m3u8
+AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 AL Jazeera,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CBS 新闻,http://154.yfvodcdn.com:8080/live/CBS1/hls.m3u8
 CNN 新闻,https://turnerlive.warnermediacdn.com:443/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC 新闻,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
@@ -993,11 +987,53 @@ TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
 
 🇨🇳┃央.视,#genre#
+CCTV13 新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
 CCTV13 新闻,http://60.6.255.8:2180/live/cctv13/index.m3u8
 CCTV13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13 新闻,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13 新闻,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
 CCTV13 新闻,http://117.81.169.180:8888/rtp/239.49.9.43:6000
+CCTV-1 综合,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
+CCTV-2 财经,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
+CCTV-3 综艺,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
+CCTV-4 国际,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
+CCTV-5 体育,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
+CCTV5+ 赛事,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
+CCTV-6 电影,http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV-6 电影,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
+CCTV-7 军事,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
+CCTV-8 剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
+CCTV-9 记录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
+CCTV-10 科教,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573001.m3u8
+CCTV-11 戏曲,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
+CCTV-12 法律,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
+CCTV-13 新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
+CCTV-14 少儿,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
+CCTV-15 音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
+CCTV-16 奥运,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
+CCTV-16 奥运,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+CCTV-17 农业,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
+CCTV4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV第一剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV怀旧剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV风云音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV电视指南,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV女性时尚,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV高尔夫网球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CGTN,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575001.m3u8
+CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
+CGTN西语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
+CGTN法语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
+CGTN阿语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
+CGTN俄语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
 CCTV-1 综合,http://60.6.255.8:2180/live/cctv1/index.m3u8
 CCTV-2 财经,http://60.6.255.8:2180/live/cctv2/index.m3u8
 CCTV-3 综艺,http://60.6.255.8:2180/live/cctv3/index.m3u8
@@ -4550,6 +4586,24 @@ Ziggo Sport Racing,p3p://108.181.32.169:38362/64312871000b6954195f459e7c10663c
 有線18台跑马,p3p://108.181.32.169:38362/6533f34d0002237a2cf5584a11195950
 
 ✨新.闻&P3P,#genre#
+镜 新 闻,http://livetv.skycf.eu.org:80/live.m3u8?c=10
+
+年代 NEWS,http://193.24.209.91/Smart.php?id=niandainews_twn
+
+中视 NEWS,http://193.24.209.91/Smart.php?id=zhongshinews_twn
+
+东森 NEWS,http://193.24.209.91/Smart.php?id=ettvnews
+
+寰宇 NEWS,http://193.24.209.91/Smart.php?id=huanyuxinwen_twn
+
+TVBs HD,http://193.24.209.91/Smart.php?id=tvbs
+中天 NEWS,http://193.24.209.91/Smart.php?id=ctinews
+
+三立 NEWS,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+
+东森财经,http://193.24.209.91/Smart.php?id=ettvcaijing_twn
+
+中天亚洲,http://193.24.209.91/Smart.php?id=ctiasia_twn
 BBC News HD,p3p://108.181.32.169:38362/641384e7000133cda5991a1b33cb3ea0
 BBC World News,p3p://108.181.32.169:38362/6465a784000201aee66e4af152371a81
 Bloomberg TV my,p3p://108.181.32.169:38362/6413814f000a6413a58b12ab52934c96
