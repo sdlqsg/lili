@@ -890,58 +890,144 @@ FGTV_1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224
 武侠港片,http://43.138.170.29:35455/yy/1451866697
 
 龍🐉邵氏线,#genre#
-邵氏影院@代,http://mmitv.top:80/test/douyu.php?id=4246519
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
-邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
-邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
-邵氏影院@代,http://epg.112114.xyz/douyu/4246519
-天映频道@代,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
-天映经典@代,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
-CCtv6影院代,http://182.139.250.132:5033/syhjcms_hls/98000000000000000001703664302519/index.m3u8?playtype=1&usercode=cl@is
+邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+邵氏影院@代,https://www.goodiptv.club/douyu/4246519
+星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+周星星影@代,https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv
+重温经典台,http://mtw.so/5NPX0U
+重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典卫星,http://117.114.153.25:8180/TV00000000000000000007@HHZT
+超级电影频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+南山有线台,http://113.64.145.55:8081/hls/18/index.m3u8
+长电影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540?$吉林长春电信
+CCTV 电影台,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CHC動作電影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.m3u8
+CHC動作電影,https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+CHC動作電影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+CHC家庭影院,https://epg.pw/stream/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8
+CHC家庭影院,https://epg.pw/stream/71f06953d8268da88185671f0ad549396ea57fc4dd5c48bdfb0b5d59068202d5.m3u8
+CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
+CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
+CHC高畫質影,https://epg.pw/stream/212b925c47a28994443e012c65356110e90af22c555f8e3f40c036614fec7f6d.m3u8
+CHC高畫質影,https://epg.pw/stream/513b5aea95520a37ae24d3ef1be5f02e0bbb0b3b937c0bb6d4154722a9a2d8fd.m3u8
+CHC高畫質影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
+CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+黑莓电影频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+古装剧场频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+动作电影频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+家庭剧场频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+惊悚悬疑频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+军旅剧场频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+香港电影频道,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a78e73c9d50f677a369a589aace6f489
+超级电影@代,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NEWTV動作電影,https://epg.pw/stream/cd45c9084dc87d55ffc777cf4b47a0f93d6ea1565e97185673f070207f7cdb25.m3u8
+NEWTV古裝劇場,https://epg.pw/stream/87b410a4d03daf80d3bc0114e5df6f63bc21382a23f1d1aab0772e9f838af38f.m3u8
+NEWTV家庭劇場,https://epg.pw/stream/879f1fe20cbbe59e7575563f6683a629d66e588b919d4aa4ea62ef6437097644.m3u8
+NEWTV家庭劇場,https://epg.pw/stream/e882c79e01115a0af0a1302d04509044ed5489359cb2991b85b1524487f5e52c.m3u8
+NEWTV家庭劇場,https://epg.pw/stream/127dbf75dbf02c0a8f350fd4cc2ebccd9503ba1f014f6c5575cc76999f9f11e1.m3u8
+NEWTV愛情喜劇,https://epg.pw/stream/a93310f76ba5b160fa55d4b9b5bf78c239981ce43ecdb44984a0492e26aaf425.m3u8
+NEWTV武搏世界,https://epg.pw/stream/887e39082c8926ee7dc1fae4acafc64ec70cae5cfd6417a406779562da53ddab.m3u8
+NEWTV海外劇場,https://epg.pw/stream/9b7166024df3941e461b10e7b0404889608f3b5d77ef5ede4f1a7e2cfc87d2eb.m3u8
+NEWTV海外劇場,https://epg.pw/stream/22ab238d18e70a22e401c0464ae86125ac7205109534a1f09708f447f01c19c3.m3u8
+NEWTV超級視劇,https://epg.pw/stream/acb38406cf2e7ffd20ca4b5ea16c5ddeceb6218cf5a274cf87188fd142b998ab.m3u8
+中国功夫频道,http://[2409:8087:1a0b:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NEWTV驚悚懸疑,https://epg.pw/stream/e58b03bfd507e0a80eabeca0e7c42e0204fcc777ae692448daa4b2f9ce4fe01e.m3u8
+NEWTV驚悚懸疑,https://epg.pw/stream/3fcb8f63a5448df96bf1e4b767739458dba710224a0816aaf46f9e65c1f4d15f.m3u8
+NEWTV驚悚懸疑,https://epg.pw/stream/fbdb46d2fa08a7877fbc43b5f401f84c7fe487039fb197bab5a36ba2f4efbd96.m3u8
+NewTV超級電影,https://epg.pw/stream/8b97f44358106b24174cb9f3d9354f29ce4011d518465dd5a8e7b76ec52c20d0.m3u8
+NewTV超級電影,https://epg.pw/stream/51a8268790d16215beebefee2ee05c185fbbddb69922da9b7f0b9985ebeb88a6.m3u8
+NEWTV軍旅劇場,https://epg.pw/stream/039ce88ed853e0843ddd582b05a4b05caad6c6c97ed78f541e5ce97cbd943ba9.m3u8
+NEWTV軍旅劇場,https://epg.pw/stream/3f9ffb76a28b1b05f59b3c6798b79349664beb96e85ae43c99bec1662d275c0f.m3u8
+NEWTV軍旅劇場,https://epg.pw/stream/2b1bea73cc3becbf8dc2173cde8041691b01c997dc0bd1b53b088e96fc0c2f48.m3u8
+NEWTV精品大劇,https://epg.pw/stream/c169dc0eb342ab0d1d8b097853183954995fb6b84eaecad28b831d4098a999c5.m3u8
+NEWTV精品大劇,https://epg.pw/stream/9922d8260d1381e429492ef4d7fa78301d9c48c29a165c8b06f20396e5af929b.m3u8
+NEWTV精品紀錄,https://epg.pw/stream/dfb24b21e956eeba85df1d10904bcb4155427d5fd8aa208244a7f25acd180061.m3u8
+NEWTV精品紀錄,https://epg.pw/stream/bf63b51d7fb0c2a9e7a92500d066bcb2888594d9f9791f14e8712c2472b9ea0c.m3u8
+NEWTV中國功夫,https://epg.pw/stream/cea4b82ff261f8f5babf78467a0065721cfcbdf07506e41fdf12262788fcde23.m3u8
+喜剧电影频道,https://www.goodiptv.club/douyu/9292492
+网神影厅@代,https://www.goodiptv.club/douyu/508118
+电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
+周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+周星驰典@代,https://www.goodiptv.club/douyu/3637778
+超级电影ipv6,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+军旅剧场ipv6,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+海外剧场ipv6,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-战争电影@代,https://live.metshop.top/yy/1382736865
-豆瓣电影@代,http://diyp.112114.xyz/douyu/8770422
-重温经典@代,http://1.62.64.80/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典@代,http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典@代,http://111.31.107.123/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-戏曲频道电信,http://182.139.250.132:5033/syhjcms_hls/98000000000000000001681695523229/614400/index.m3u8?playtype=1&usercode=cl@is&cl_cid=98000000000000000001681695523229
-星爷影院@代,http://mmitv.top:80/test/douyu.php?id=122402&u=4654622&cate
-豆瓣高分@代,http://43.138.170.29:35455/douyu/8770422
-下饭神剧@代,http://43.138.170.29:35455/douyu/276200
+CCtv6影院代,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8
+CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
+惊悚悬疑ipv6,https://epg.pw/stream/e58b03bfd507e0a80eabeca0e7c42e0204fcc777ae692448daa4b2f9ce4fe01e.m3u8
+惊悚悬疑ipv6,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+明星大片ipv6,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+CHC高清电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
+CHC动作电影,https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+CHC家庭影院,https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
+惊嫊悬疑电影,http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+梨园卫视频道,http://222.223.118.222:2180/live/lypd/index.m3u8
+梨园频道ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+七彩戲劇[ipv6],https://epg.pw/stream/f6743709c60e78a121fc6bfdb1bffbea4d70f70b0d9b57d01eff271711e63081.m3u8
+七彩戲劇[ipv6],https://epg.pw/stream/f24f4e456debc7fcf6048a2e6119e89b77a24211d69776eb680fac12bb384714.m3u8
+黑莓电影@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+黑莓动画@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
+豆瓣高分@代,https://www.goodiptv.club/douyu/8770422
+下饭神剧@代,https://www.goodiptv.club/douyu/276200
+超级电影ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电影ipv6,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+超级电视ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+吃米滴虫✔原,https://www.goodiptv.club/douyu/315457
+冰冰经典✔原,https://www.goodiptv.club/douyu/74374
+星爷影院✔原,https://www.goodiptv.club/douyu/508118
+凌儿影院✔原,https://www.goodiptv.club/douyu/1377142
+麓山迷踪✔原,https://www.goodiptv.club/douyu/4505431
+瑶瑶恐怖✔原,https://www.goodiptv.club/douyu/2935323
+怡寶影院✔原,hhttps://www.goodiptv.club/douyu/434971
+小黛兮影✔原,https://www.goodiptv.club/douyu/11553944
+萌小鬼片✔原,https://www.goodiptv.club/douyu/3928
+神乐剧场✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐剧院✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影剧✔原,https://www.goodiptv.club/douyu/122402
+可乐影院✔原,https://www.goodiptv.club/douyu/20415
+小宇60帧✔原,https://www.goodiptv.club/douyu/323876
+恐怖惊悚✔原,https://www.goodiptv.club/douyu/96577
+電影劇場✔原,https://www.goodiptv.club/douyu/7575350
+豆瓣高分✔原,https://www.goodiptv.club/douyu/8770422
+花卷陪看✔原,https://www.goodiptv.club/douyu/52787
+漫威剧情✔原,https://www.goodiptv.club/douyu/6140589
+霍格沃茨✔原,https://www.goodiptv.club/douyu/8814650
+鱼宝恐怖✔原,https://www.goodiptv.club/douyu/1165374
+鬼片恐怖✔原,https://www.goodiptv.club/douyu/2935323
+小u*鬼片✔原,https://www.goodiptv.club/douyu/96577
+吃奶滴虫✔原,https://www.goodiptv.club/douyu/263824
+变种人片✔原,hhttps://www.goodiptv.club/douyu/9651304
+喜剧电影✔原,https://www.goodiptv.club/douyu/9292492
+女神电影✔原,https://www.goodiptv.club/douyu/747764
+华语经典✔原,https://www.goodiptv.club/douyu/434971
+避风影院✔原,https://www.goodiptv.club/douyu/9826611
+欧美大片✔原,https://www.goodiptv.club/douyu/2793084
+贝爷max ✔原,https://www.goodiptv.club/douyu/4332
+贝爷影厅✔原,https://www.goodiptv.club/douyu/252802
 小猪优版剧院,https://www.goodiptv.club/douyu/10297898
-公众号天微科技,https://www.goodiptv.club/douyu/10297898
 绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-晴彩影院四川,http://182.139.250.132:5033/HUAWEI/20000001000000050000000000000371/index.m3u8?playtype=1&usercode=cl@is
-CCTV-戏曲台,http://fzcds.cn:8822/hls/74/index.m3u8
-吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
-冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
-星爷影院✔原,http://159.75.85.63:35455/douyu/508118
-瑶瑶恐怖✔原,http://159.75.85.63:35455/douyu/2935323
-怡寶影院✔原,http://159.75.85.63:35455/douyu/434971
-小黛兮影✔原,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
-神乐影剧✔原,http://159.75.85.63:35455/douyu/122402
-可乐影院✔原,http://159.75.85.63:35455/douyu/20415
-小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
-恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
-電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
-豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
-漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
-鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
-小u*鬼片✔原,http://mmitv.top/test/douyu.php?id=96577&u=4150734&cate
-吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
-喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
-避风影院✔原,http://159.75.85.63:35455/douyu/9826611
-欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
-贝爷max✔原,http://159.75.85.63:35455/douyu/4332
-贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+赵本山经小品,https://www.goodiptv.club/douyu/9817716
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
+宋小宝小品台,https://www.goodiptv.club/douyu/9817729
+粤语集轮播台,https://www.goodiptv.club/douyu/10338873
+粤语港剧轮播,https://www.goodiptv.club/douyu/6478650
+粤语轮播港剧,https://www.goodiptv.club/douyu/9019945
+粤语轮播剧集,https://www.goodiptv.club/douyu/10567318
+粤语经典综艺,https://www.goodiptv.club/douyu/7919720
+粤语版电影一,https://www.goodiptv.club/douyu/5033502
+粤语版电影二,https://www.goodiptv.club/douyu/6566671
+粤语版电影三,https://www.goodiptv.club/douyu/1226741
 
 龍🐉小品相声,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
